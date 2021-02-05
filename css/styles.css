@@ -87,7 +87,11 @@ p {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-
+  
+  .title-h1{
+    text-align: center;
+  }
+  
   #title {
     text-align: center;
   }
