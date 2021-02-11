@@ -24,6 +24,30 @@ p {
   padding: 3% 15%;
 }
 
+/*************************************************** Covid-19 Section **************************************************/
+#covid-19{
+  background-color: #09015f;
+  padding: 10px;
+}
+
+.covid-title{
+  color: yellow;
+  font-weight:400;
+  margin-right: 10px;
+}
+
+.covid-advisory{
+  margin: 0;
+  color: #fff;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.covid-dogs{
+  display: inline-block;
+  margin: 0 20px;
+  color: #fff;
+}
 /************************************************** Title Section ************************************************/
 #title {
   background-color: #FF4C68;
@@ -87,11 +111,7 @@ p {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  
-  .title-h1{
-    text-align: center;
-  }
-  
+
   #title {
     text-align: center;
   }
