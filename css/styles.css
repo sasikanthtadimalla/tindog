@@ -228,23 +228,28 @@ p {
   font-size: 20px;
 }
 
+.pedigree{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 .card-header {
   padding-top: 20px;
 }
 
+.basic-card-header {
+  background-color: #fff;
+}
+
 .silver-card-header {
-  background-color: #C0C0C0;
+  background-color: #E5E4E2;
 }
 
 .gold-card-header {
   background-color: #FFD700;
 }
 
-.platinum-card-header {
-  background-color: #E5E4E2;
-}
-
-.silver-gold {
+.basic-silver {
   margin-top: 60px;
 }
 
@@ -252,16 +257,16 @@ p {
   border: 3px solid;
 }
 
+.basic-card {
+  border-color: #000;
+}
+
 .silver-card {
-  border-color: #C0C0C0;
+  border-color: #000;
 }
 
 .gold-card {
-  border-color: #FFD700;
-}
-
-.platinum-card {
-  border-color: #E5E4E2;
+  border-color: #000;
 }
 
 /***************************************************** CTA Section *************************************************/
